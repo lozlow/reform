@@ -1,5 +1,5 @@
 {
-  "name": "@rescriptbr/reform",
+  "name": "@lozlow/reform",
   "jsx": { "version": 4 },
   "bs-dependencies": [
     "@rescript/react",
